@@ -1,5 +1,7 @@
 # fire
 
+Aplica conceitos de comunicação com banco firestore e auth/login.
+
 ## Project setup
 ```
 npm install
