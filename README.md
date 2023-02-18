@@ -1,6 +1,6 @@
 # fire
 
-Aplica conceitos de comunicação com banco firestore e auth/login.
+Aplica conceitos de comunicação com banco firebase e auth/login.
 
 ## Project setup
 ```
